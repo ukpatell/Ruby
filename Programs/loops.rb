@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 # One of the methods for loop
 i = 5
 

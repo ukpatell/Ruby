@@ -1,4 +1,4 @@
-
+#!/usr/bin/env ruby
 
 # IF - Conditional
 x = 15

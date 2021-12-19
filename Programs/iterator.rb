@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 =begin
   Multiple Ways for Iterations
 
