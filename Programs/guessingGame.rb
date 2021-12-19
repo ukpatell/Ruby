@@ -1,8 +1,8 @@
 #!/usr/bin/env ruby
 
-puts "--------------------------------"
+puts "-" * 35
 puts "|       Guessing Game          |"
-puts "--------------------------------"
+puts "-" * 35
 puts "Instructions:"
 puts "      Computer will generate random "
 puts "      number User will have 5  "
