@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 # => Name: Umang Patel
 # => Date: December 18, 2021
 # => Description: Map Roman Numerals

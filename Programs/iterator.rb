@@ -28,6 +28,9 @@ fruit.each do |fruit|
 end
 
 # Simple Iteration Exercise
+#   Remove First Char and Add in the end
+#   Repeat the pattern for 20 times
+
 WORDS = "RRGGBBYYKK"
 word_array = WORDS.split("")
 count = 20
